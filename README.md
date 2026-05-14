@@ -19,5 +19,4 @@ This repository is made to practice coding, improve technical skills and share l
 - Grow as a CSE student
 
 ## Author
-[Friend Name]
-BTech CSE Student
+Nandani | BTech CSE Student
